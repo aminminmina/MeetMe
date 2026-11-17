@@ -55,13 +55,13 @@
 
 ### Диаграммы последовательностей (Sequence Diagrams)
 * **Создание комнаты:**
-  ![UC-01 Создание комнаты](docs/img/Collaborativework_UC-01_Creating_a_Room.PNG)
+  ![UC-01 Создание комнаты](/docs/img/Collaborativework_UC-01_Creating_a_Room.PNG)
 * **Подключение к комнате:**
-  ![UC-02 Подключение к комнате](docs/img/UC-02_Connecting_to_the_room_Arina.PNG)
+  ![UC-02 Подключение к комнате](/docs/img/UC-02_Connecting_to_the_room_Arina.PNG)
 * **Настройка предпочтений:**
-  ![UC-03 Настройка предпочтений](docs/img/UC-03_for_preference_settings_Amina.PNG)
+  ![UC-03 Настройка предпочтений](/docs/img/UC-03_for_preference_settings_Amina.PNG)
 * **Определение совпадения:**
-  ![UC-04 Определение совпадения](docs/img/UC-04_definition_of_a_match_Yulia.PNG)
+  ![UC-04 Определение совпадения](/docs/img/UC-04_definition_of_a_match_Yulia.PNG)
 
 ---
 *Полная официальная версия отчета для печати доступна в файле [report.docx](report.docx)[cite: 5].*
