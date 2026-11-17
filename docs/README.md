@@ -51,7 +51,7 @@
 Ниже представлены основные диаграммы проекта:
 
 ### Диаграмма вариантов использования (Use Case Diagram)
-[Use Case Diagram](img/use_case)
+[Use Case Diagram](img/use_case.png)
 
 ### Диаграммы последовательностей (Sequence Diagrams)
 * **Создание комнаты:**
