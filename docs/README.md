@@ -51,17 +51,17 @@
 Ниже представлены основные диаграммы проекта:
 
 ### Диаграмма вариантов использования (Use Case Diagram)
-![Use Case Diagram](img/use_case_diagram.png)
+![Use Case Diagram](docs/img/use_case_diagram.png)
 
 ### Диаграммы последовательностей (Sequence Diagrams)
 * **Создание комнаты:**
-  ![UC-01 Создание комнаты](img/seq_create_room.png)
+  ![UC-01 Создание комнаты](docs/img/seq_create_room.png)
 * **Подключение к комнате:**
-  ![UC-02 Подключение к комнате](img/seq_join_room.png)
+  ![UC-02 Подключение к комнате](docs/img/seq_join_room.png)
 * **Настройка предпочтений:**
-  ![UC-03 Настройка предпочтений](img/seq_preferences.png)
+  ![UC-03 Настройка предпочтений](docs/img/seq_preferences.png)
 * **Определение совпадения:**
-  ![UC-05 Определение совпадения](img/seq_matching.png)
+  ![UC-05 Определение совпадения](docs/img/seq_matching.png)
 
 ---
 *Полная официальная версия отчета для печати доступна в файле [report.docx](report.docx)[cite: 5].*
